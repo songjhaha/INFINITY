@@ -1,1 +1,1 @@
-# InfiniteScience
+# ∞ INFINITY 
