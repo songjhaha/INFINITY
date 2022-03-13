@@ -8,7 +8,6 @@ INFINITY aims to build a landscape to unite creative and thoughtful people toget
 ## Architecture
 <img width="966" alt="image" src="https://github.com/X4Science/INFINITY/blob/main/Diagrams/X4Science.png">
 
-
 ## Missions
 - Scientific Machine Learning
   - Framework and Library
@@ -44,5 +43,8 @@ INFINITY aims to build a landscape to unite creative and thoughtful people toget
 
 ## Contacts
 paddlescience@baidu.com
+
+## Organization
+<img width="966" alt="image" src="https://github.com/X4Science/INFINITY/blob/main/Diagrams/X4Science%20Community%20Organization.png">
 
 ## Contributing
