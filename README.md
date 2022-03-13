@@ -3,8 +3,7 @@
 INFINITY aims to build a landscape to unite creative and thoughtful people together, do something Great and Wonderful but start by doing the little things.
 
 ## Recent updates
-【PaddlePaddle Hackathon 2】科学计算方向任务合集 #2
-https://github.com/X4Science/INFINITY/issues/2
+【PaddlePaddle Hackathon 2】科学计算方向任务合集https://github.com/X4Science/INFINITY/issues/2
 
 ## Missions
 - Scientific Machine Learning
@@ -25,10 +24,12 @@ https://github.com/X4Science/INFINITY/issues/2
   -  
 
 ## Biology and Life Sciences
-- （PtoeinGAN）(https://github.com/Biomatter-Designs/ProteinGAN)
+- Biomatter-Designs
+  - [PtoeinGAN](https://github.com/Biomatter-Designs/ProteinGAN)
 
 ## Chemistry, Material, Nanoscience
-- [deepmodeling/deepmd-kit](https://github.com/deepmodeling/deepmd-kit/tree/paddle)
+- Molecular Dynamics
+  - [deepmodeling/deepmd-kit](https://github.com/deepmodeling/deepmd-kit/tree/paddle)
 
 ## Earth and Environmental Sciences
 - [NOAA](https://www.star.nesdis.noaa.gov/star/)
