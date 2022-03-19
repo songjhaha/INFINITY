@@ -50,4 +50,7 @@ paddlescience@baidu.com
 ## Contributing Teams
 ### PPSIG-AIMD&AF2
 - Team Info: https://shimo.im/docs/0l3NVO2O5wh2Xl3R
-- Meeting Hour:  
+- Meeting Hour:  [UTC+8]2022/03/19 19:00-19:30 
+- Meeting Link:
+
+### 
