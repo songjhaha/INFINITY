@@ -48,6 +48,6 @@ paddlescience@baidu.com
 <img width="966" alt="image" src="https://github.com/X4Science/INFINITY/blob/main/Diagrams/X4Science%20Community%20Organization.png">
 
 ## Contributing Teams
-# PPSIG-AIMD&AF2
-Team Info: https://shimo.im/docs/0l3NVO2O5wh2Xl3R
-Meeting Hour:  
+### PPSIG-AIMD&AF2
+- Team Info: https://shimo.im/docs/0l3NVO2O5wh2Xl3R
+- Meeting Hour:  
