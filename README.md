@@ -48,9 +48,26 @@ paddlescience@baidu.com
 <img width="966" alt="image" src="https://github.com/X4Science/INFINITY/blob/main/Diagrams/X4Science%20Community%20Organization.png">
 
 ## Contributing Teams
+### PPSIG-Science Inverse Problem
+- Team Info: https://shimo.im/docs/vVqRVlGOvVIVYXqy
+- Meeting Hour:  [UTC+8]2022/03/20 18:00-18:30 
+- Meeting Link: https://meeting.tencent.com/dm/VnWgmNZzvDCc
+
+### PPSIG-CFD
+- Team Info: https://shimo.im/docs/B1Aw1JVvRWfw90qm
+- Meeting Hour:  [UTC+8]2022/03/20 18:30-19:00 
+- Meeting Link: https://meeting.tencent.com/dm/RqlcCvPQxhOS
+
 ### PPSIG-AIMD&AF2
 - Team Info: https://shimo.im/docs/0l3NVO2O5wh2Xl3R
-- Meeting Hour:  [UTC+8]2022/03/19 19:00-19:30 
-- Meeting Link:
+- Meeting Hour:  [UTC+8]2022/03/20 19:00-19:30 
+- Meeting Link: https://meeting.tencent.com/dm/f2p4q77db7Mp
 
-### 
+### PPSIG-DistributedTech
+- Team Info: https://shimo.im/docs/m4kMLBlevKCG7MqD
+
+### PPSIG-Earth&Environment Science
+- Team Info: https://shimo.im/docs/KrkEV4vzodSeaYAJ
+
+### PPSIG-Elec
+- Team Info: https://shimo.im/docs/5xkGMpa1bXUZ7g3X
