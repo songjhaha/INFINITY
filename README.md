@@ -31,7 +31,7 @@ INFINITY aims to build a landscape to unite creative and thoughtful people toget
 
 ## Chemistry, Material, Nanoscience
 - Molecular Dynamics
-  - [deepmodeling/deepmd-kit](https://github.com/deepmodeling/deepmd-kit/tree/paddle)
+  - https://github.com/X4Science/SCFNN
 
 ## Earth and Environmental Sciences
 - [NOAA](https://www.star.nesdis.noaa.gov/star/)
