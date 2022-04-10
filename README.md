@@ -3,9 +3,9 @@
 INFINITY aims to build a landscape to unite creative and thoughtful people together, do something Great and Wonderful but start by doing the little things.
 
 ## Recent updates
-【PaddlePaddle Hackathon 2】科学计算方向任务合集https://github.com/X4Science/INFINITY/issues/2
-【PaddlePaddle Hackathon 2】科学计算方向直播课 https://m.bilibili.com/video/BV1W3411p7A1
-【PaddlePaddle 论文复现赛】https://github.com/PaddlePaddle/Paddle/issues/41482
+- 【PaddlePaddle Hackathon 2】科学计算方向任务合集https://github.com/X4Science/INFINITY/issues/2
+- 【PaddlePaddle Hackathon 2】科学计算方向直播课 https://m.bilibili.com/video/BV1W3411p7A1
+- 【PaddlePaddle 论文复现赛】https://github.com/PaddlePaddle/Paddle/issues/41482
 
 
 ## Architecture
