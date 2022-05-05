@@ -92,4 +92,4 @@ grad, = Zygote.gradient(x->loss(jlwrap, x, target), input)
 
 And there is a [demo](./examples/demo_neuralpde.jl) for neuralPDE.
 
-check more details in [report](./report/Report_zh.md)
+check more details benchmarks in [report](./report/Report_zh.md)
