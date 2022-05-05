@@ -113,7 +113,7 @@ grad, = Zygote.gradient(x->loss(jlwrap, x, target), input)
 
 ### NeuralPDE
 
-基本只需要修改两处代码，一个是把神经网络修改成PaddleModuleWrapper，另一处是使用`Optimisers.destructure()`得到Flatten的神经网络的参数。具体代码见[example](./examples/demo_neuralpde.jl)。
+基本只需要修改两处代码，一个是把神经网络修改成PaddleModuleWrapper，另一处是使用`Optimisers.destructure()`得到Flatten的神经网络的参数。具体代码见[example](../examples/demo_neuralpde.jl)。
 
 
 
